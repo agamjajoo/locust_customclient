@@ -25,7 +25,7 @@ def func1(num):
 
 
 
-    " ***************** QA1 Env *****************"
+    " ***************** MQ Destination Details Env *****************"
     host = "your host name for queue manager"
     port = "port name for queue manager"
     channel = "channel name foe queue manager 01N"

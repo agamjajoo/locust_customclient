@@ -28,10 +28,10 @@ def func2(num):
 
 
 
-    " ***************** QA1 Env *****************"
+    " ***************** MQ Env Details *****************"
     host = "your host name for queue manager"
     port = "port name for queue manager"
-    channel = "channel name foe queue manager 01N"
+    channel = "channel name foe queue manager "
     queue_manager = "queue manager name.MQ"
     queue_name = "request queue where you want to send a message"
     " *******************************************"
